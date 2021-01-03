@@ -1,4 +1,4 @@
-<h1 style="color: rgb(34, 36, 41);"><strong>React Practices</strong></h1>
+<span style="color: rgb(34, 36, 41);"><strong>React Practices</strong></span>
 
 >'This repo include different projects, some extracted from some course, others made by me'
 
