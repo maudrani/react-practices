@@ -3,8 +3,8 @@
 >'This repo include different projects, some extracted from some course, others made by me.'
 
 <br>
----
 
+---
 **IMPORTANT:**
 `Each folder/project its a submodule, so it will redirect you to a different repository when selected.`
 
