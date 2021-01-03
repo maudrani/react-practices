@@ -4,9 +4,9 @@
 
 ---
 **IMPORTANT:**
-`Each folder/project has its own branch to follow their commits`
+`Each folder/project its a submodule, so it will redirect you to a different repository when selected.`
 
 ---
 
-<h3>Technologies Used:</h3>
+<h2>Technologies Used:</h2>
 <ul style="font-size: 13px;"><li>React Hooks.</li></ul>
