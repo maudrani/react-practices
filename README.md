@@ -1,6 +1,11 @@
-<h1><strong>React Practices.</strong></h1>
->'This repo include different projects, some extracted from some course, others made by me'
+<div style="color: rgb(12, 19, 37);">
 
+    <h1><strong>React Practices</strong></h1>
+    >'This repo include different projects, some extracted from some course, others made by me'
 
-### Technologies used: 
-- **React Hooks.**
+    <h4>Technologies Used:</h4>
+    <ul>
+        <li>React Hooks.</li>
+    </ul>
+
+</div>
