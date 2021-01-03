@@ -1,6 +1,6 @@
-<h1 style="color: rgb(12, 19, 37);"><strong>React Practices</strong></h1>
+<h1 style="color: rgb(34, 36, 41);"><strong>React Practices</strong></h1>
 
 >'This repo include different projects, some extracted from some course, others made by me'
 
-<h4>Technologies Used:</h4>
-<ul><li>React Hooks.</li></ul>
+<h3 style="color: rgb(60, 63, 68);">Technologies Used:</h3>
+<ul style="font-size: 13px;"><li>React Hooks.</li></ul>
