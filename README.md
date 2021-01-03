@@ -3,7 +3,7 @@
 >'This repo include different projects, some extracted from some course, others made by me'
 
 ---
-**IMPORTANT**
+**IMPORTANT:**
 `Each folder/project has its own branch to follow their commits`
 
 ---
