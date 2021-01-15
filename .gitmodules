@@ -2,3 +2,6 @@
 [submodule "Xinergy"]
 	path = Xinergy
 	url = https://github.com/maudrani/react-project-xinergy.git
+[submodule "practice-citas"]
+	path = practice-citas
+	url = https://github.com/maudrani/react-practice-citas
