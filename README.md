@@ -4,9 +4,7 @@
 
 ---
 **IMPORTANT:**
-`Each folder/project has its own branch to follow their commits`
+`Each folder/project will redirect you to it's own repository.`
 
 ---
 
-<h3>Technologies Used:</h3>
-<ul style="font-size: 13px;"><li>React Hooks.</li></ul>
